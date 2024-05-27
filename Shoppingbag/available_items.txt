@@ -1,0 +1,8 @@
+apple:0.5
+banana:0.75
+orange:1.0
+carrot:5.0
+Rice:3.25
+coffee:4.0
+milk:6.0
+bread:8.0
